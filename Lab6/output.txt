@@ -1,0 +1,28 @@
+Line
+	Color: 0xFFFFFF
+	Point 1: 274 117 0
+	Point 2: 192 210 0
+Line
+	Color: 0xFFFFFF
+	Point 1: 416 182 0
+	Point 2: 568 65 0
+Triangle
+	Color: 0xFF00FF
+	Point 1: 265 425 0
+	Point 2: 349 278 0
+	Point 3: 476 436 0
+Triangle
+	Color: 0xFF00FF
+	Point 1: 633 283 0
+	Point 2: 392 226 0
+	Point 3: 529 389 0
+Triangle
+	Color: 0xFF00FF
+	Point 1: 600 444 0
+	Point 2: 146 415 0
+	Point 3: 666 71 0
+Triangle
+	Color: 0xFF00FF
+	Point 1: 253 484 0
+	Point 2: 102 363 0
+	Point 3: 703 49 0
